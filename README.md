@@ -1,2 +1,2 @@
-# meu-repositorio-de-autentica-oes-SENAC
+# meu-repositorio-de-autenticacoes-SENAC
 Repositório de testes de autenticação
